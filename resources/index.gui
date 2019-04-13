@@ -1,3 +1,4 @@
 <svg>
-  <rect id="background" />
+  <image href="img/einstein.png" />
+  <text id="clock" />
 </svg>
